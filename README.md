@@ -1,4 +1,4 @@
-# POOexercice
+# POOexercice Python
 basic banking system
 
 from abc import ABC, abstractmethod
